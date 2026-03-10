@@ -1,16 +1,16 @@
 body{background-color: #f0f0f0;}
 
 h1{
-    color: pink;
+    color: navy;
     text-align: center;
 }
 
 h2{
-    color: pink;
+    color: light steel blue;
 }
 
 img{
-    border: 2px solid black;
+    border: 5px solid black;
     padding: 10px
 };
 
@@ -32,8 +32,7 @@ a:hover {
     margin: 0 auto;
     background-color: white;
     padding: 20px;
-    border: 1px solid green;
-}
+    border: 1px solid darkblue}
 
 .error{
     color: red;
@@ -74,7 +73,7 @@ table {
       }
 
       th {
-        background-color: #4caf50; /* Green background for header cells */
+        background-color: darkblue; /* Green background for header cells */
         color: white; /* White text for header cells */
       }
 
